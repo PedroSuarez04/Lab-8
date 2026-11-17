@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.key
+*.pem
+*.log
+ghidra_projects/
+
+# FastAgent generated sessions and logs
+.fast-agent/
+*.bak
+
+# Malware examples provided for static analysis
+malware/
